@@ -17,7 +17,7 @@ const dashboard = () => {
           />
           <DashboardCard name="Smart Craddle" path="/smartcraddle" />
         </div>
-        <div className="w-1/2">
+        <div className="sm:full md:w-1/2">
           <img src={dashboardImage} alt="" />
         </div>
       </div>
