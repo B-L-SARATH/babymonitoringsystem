@@ -21,7 +21,7 @@ const disease = () => {
         </div>
       </div>
 
-      <div className="flex justify-around gap-4 flex-wrap ">
+      <div className="flex justify-around gap-4 flex-wrap sm:p-3 md:p-0">
         <div className="flex flex-col sm:full md:w-1/3  ">
           <h1 className="bg-blue-600 rounded-lg text-center p-2 ">
             {" "}
